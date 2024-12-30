@@ -32,16 +32,17 @@ ionutvmi.path-autocomplete: Autocomplete paths and filenames in Visual Studio Co
 
 ## Build and run script 
 
-```
+
 
 Navigate to the project directory and build the Go script:
 
-```
+```go
 go build -o install-extensions
 ```
 
 Then run the script by specifying the path to your extensions.json file:
 
-```
+```shell
 ./install-extensions extensions.json
 ```
+
