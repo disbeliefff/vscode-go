@@ -6,6 +6,7 @@
     "usernamehw.errorlens",
     "eamodio.gitlens",
     "donjayamanne.githistory",
-    "ionutvmi.path-autocomplete"
+    "ionutvmi.path-autocomplete", 
+    "kangping.protobuf"
   ]
 }
