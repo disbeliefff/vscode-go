@@ -1,0 +1,11 @@
+{
+  "extensions": [
+    "golang.Go",
+    "DBCode.dbcode",
+    "ms-azuretools.vscode-docker",
+    "usernamehw.errorlens",
+    "eamodio.gitlens",
+    "donjayamanne.githistory",
+    "ionutvmi.path-autocomplete"
+  ]
+}
