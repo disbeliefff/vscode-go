@@ -12,6 +12,24 @@ git clone https://github.com/disbeliefff/vscode-go.git
 cd vscode-go
 ```
 
+## Extensions
+
+Below is the list of the current extensions included in this project:
+
+golang.Go: Go support for Visual Studio Code.
+
+DBCode.dbcode: Database support for Visual Studio Code.
+
+ms-azuretools.vscode-docker: Docker support for Visual Studio Code.
+
+usernamehw.errorlens: Real-time error highlighting in the editor.
+
+eamodio.gitlens: Git integration with powerful features for Visual Studio Code.
+
+donjayamanne.githistory: View git history and commits within Visual Studio Code.
+
+ionutvmi.path-autocomplete: Autocomplete paths and filenames in Visual Studio Code.
+
 ## Build and run script 
 
 ```
