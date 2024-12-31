@@ -1,4 +1,4 @@
-# This Go script is designed to automatically install Visual Studio Code extensions from a JSON file. It checks if each extension is already installed and installs only the ones that are not yet installed.
+# This Go script is designed to automatically install Visual Studio Code extensions.
 
 ## Requirements 
 To use the script, you need the following:
